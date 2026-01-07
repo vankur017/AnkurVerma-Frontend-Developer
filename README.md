@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Demo & Walkthrough
-[cite_start]**⚠️ Important:** Please review the following links as part of the submission[cite: 93, 94]:
+**⚠️ Important:** Please review the following links as part of the submission[: 93, 94]:
 
 * **🚀 Deployed App:** [Insert your Vercel/Netlify Link Here]
 * **🎥 Video Walkthrough:** [Insert your Loom/YouTube Link Here]
@@ -21,23 +21,23 @@ The application visualizes a static tree of pages (Home -> Main Pages -> Subpage
 ##  Features
 This application implements 100% of the requested functionality:
 
-### [cite_start]1. Visual Hierarchy (React Flow + Dagre) [cite: 40]
+### 1. Visual Hierarchy (React Flow + Dagre) 
 * **Auto-Layout:** automatically arranges nodes in a vertical tree structure using Dagre.
 * **Distinct Levels:** Visually differentiates Level 1 (Home), Level 2 (Main Pages), and Level 3 (Subpages) using distinct colors and styles.
 
-### [cite_start]2. Draggable Home Sections (DndKit) [cite: 44]
+### 2. Draggable Home Sections (DndKit) 
 * The **Home Node** is a custom component containing 5 internal sections: *Hero, Features, Testimonials, CTA, Footer*.
 * Users can drag and reorder these sections within the node using `DndKit`.
 * Changes to the section order are strictly persisted.
 
-### [cite_start]3. Persistence & Export [cite: 57]
+### 3. Persistence & Export 
 * **Save:** Persists the current layout and section order to `localStorage`.
 * **Load:** Restores the saved state from `localStorage` (persists across page reloads).
 * **Export:** Downloads the current state as a `hierarchy.json` file.
 
 ---
 
-## [cite_start]🛠️ Tech Stack [cite: 63]
+## 🛠️ Tech Stack 
 * **Framework:** React.js (Vite)
 * **Visualization:** React Flow
 * **Layout Engine:** Dagre
@@ -47,7 +47,7 @@ This application implements 100% of the requested functionality:
 
 ---
 
-## [cite_start]🚀 How to Run Locally [cite: 95]
+## 🚀 How to Run Locally 
 
 Follow these steps to run the application on your local machine:
 
@@ -71,7 +71,7 @@ Follow these steps to run the application on your local machine:
 ---
 
 ## 🧪 Running Tests
-[cite_start]This project includes unit tests for the Layout Engine, Data Integrity, and Persistence Logic using **Vitest**[cite: 80].
+This project includes unit tests for the Layout Engine, Data Integrity, and Persistence Logic using **Vitest**.
 
 To run the test suite:
 ```bash
