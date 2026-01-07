@@ -1,7 +1,6 @@
 # Visual Page Hierarchy Editor
 
-**Submitted by:** Ankur Verma
-**Role:** Frontend Developer Assessment
+**Submitted by:** Ankur Verma-  Frontend Developer Assessment
 
 ---
 
