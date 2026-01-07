@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+/* --- Level 2 Nodes (Main Pages: About, Services, etc.) --- */
+/* We target them by ID or you can add a 'className' in your data */
+.react-flow__node-default[data-id="2"],
+.react-flow__node-default[data-id="3"],
+.react-flow__node-default[data-id="4"],
+.react-flow__node-default[data-id="5"] {
+  background-color: #e0f2fe; /* Light Blue */
+  border: 1px solid #38bdf8;
+  color: #0c4a6e;
+  font-weight: 600;
+  width: 200px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+
+/* --- Level 3 Nodes (Subpages) --- */
+.react-flow__node-default {
+  /* Default style for the remaining nodes */
+  background-color: #f0fdf4; /* Light Green */
+  border: 1px solid #4ade80;
+  color: #14532d;
+  width: 200px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+/* --- React Flow Controls Position --- */
+.react-flow__controls {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  border: 1px solid #e5e7eb;
+}
