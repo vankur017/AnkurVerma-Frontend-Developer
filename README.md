@@ -54,7 +54,7 @@ Follow these steps to run the application on your local machine:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/vankur017/AnkurVerma-Frontend-Developer.git
-    cd visual-hierarchy-editor
+    cd AnkurVerma-Frontend-Developer
     ```
 
 2.  **Install dependencies:**
