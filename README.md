@@ -8,7 +8,7 @@
 ## 🔗 Live Demo & Walkthrough
 **⚠️ Important:** Please review the following links as part of the submission:
 
-* **🚀 Deployed App:** [Insert your Vercel/Netlify Link Here]
+* **🚀 Deployed App:** [https://ankur-verma-frontend-developer.vercel.app/]
 * **🎥 Video Walkthrough:** [Insert your Loom/YouTube Link Here]
 
 ---
