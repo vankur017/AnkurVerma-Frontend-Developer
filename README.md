@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Demo & Walkthrough
-**⚠️ Important:** Please review the following links as part of the submission[: 93, 94]:
+**⚠️ Important:** Please review the following links as part of the submission:
 
 * **🚀 Deployed App:** [Insert your Vercel/Netlify Link Here]
 * **🎥 Video Walkthrough:** [Insert your Loom/YouTube Link Here]
@@ -53,7 +53,7 @@ Follow these steps to run the application on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/vankur017/AnkurVerma-Frontend-Developer.git
     cd visual-hierarchy-editor
     ```
 
